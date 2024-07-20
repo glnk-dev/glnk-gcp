@@ -23,4 +23,3 @@ jobs:
         uses: glnk-dev/webapp@v0.1.1
         with:
           GLNK_USERNAME: gcp
-          GLNK_PUBLIC_URL: https://gcp.glnk.dev
