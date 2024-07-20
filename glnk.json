@@ -1,1 +1,5 @@
-{ "/home": "https://github.com/glnk-dev/glnk-gcp" }
+{
+  "/home": "https://github.com/glnk-dev/glnk-gcp",
+  "/iam": "https://console.cloud.google.com/iam-admin/iam",
+  "/iam/{$1}": "https://console.cloud.google.com/iam-admin/iam?project={$1}"
+}
