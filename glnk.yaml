@@ -1,5 +1,6 @@
 "/home": "https://console.cloud.google.com"
 "/status": "https://status.cloud.google.com"
+"/iam-explorer": "https://gcp-iam-explorer-263803.web.app/"
 
 "/api/{$1}": "https://console.cloud.google.com/apis/dashboard?hl=en&project={$1}"
 "/api": "https://console.cloud.google.com/apis/dashboard?hl=en"
